@@ -95,7 +95,7 @@ button3 a:hover, button1 a:hover{color:#0f393a;text-decoration: none; border-bot
     color: #0f393a;
     }
 
-@media (max-width:360px){
+@media (max-width:1090px){
     // Write your code Here, for example
     body{
         font-size:10px;
