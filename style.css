@@ -94,8 +94,11 @@ button3 a:hover, button1 a:hover{color:#0f393a;text-decoration: none; border-bot
     background:#ffcacc; 
     color: #0f393a;
     }
- body {
-        font-family: Calibri, 'Trebuchet MS', "Segoe UI", sans-serif;
-    
-    }
 
+@media (max-width:700px){
+    // Write your code Here, for example
+    body{
+        font-size:10px;
+        font-family:arial;
+    }
+}
